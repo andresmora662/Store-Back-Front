@@ -7,7 +7,7 @@ const App = () => {
     <header>
         <nav class="navbar">
             <ul>
-                <li><a href="#">Home</a></li>
+                <li><a href="#">Inicio</a></li>
                 <li><a href="#">Productos</a></li>
                 <li><a href="#">Promociones</a></li>
                 <li><a href="#">Login</a></li>
