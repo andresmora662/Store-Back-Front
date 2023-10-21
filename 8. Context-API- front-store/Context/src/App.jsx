@@ -9,7 +9,7 @@ const App = () => {
             <ul>
                 <li><a href="#">Home</a></li>
                 <li><a href="#">Productos</a></li>
-                <li><a href="#">Descuentos</a></li>
+                <li><a href="#">Promociones</a></li>
                 <li><a href="#">Login</a></li>
             </ul>
         </nav>
